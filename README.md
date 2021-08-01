@@ -6,7 +6,7 @@ I am a mechanical engineer, I wouldn't say I'm capable of taking in all phases o
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhanbaranelmacioglu)
 
-![serhanelmacioglu's stars](https://img.shields.io/github/stars/massivealice?style=social)
+![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social)
 ![massivealice's GitHub followers](https://img.shields.io/github/followers/serhanelmacioglu?style=social)
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">

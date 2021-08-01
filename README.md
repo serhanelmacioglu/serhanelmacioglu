@@ -14,3 +14,6 @@
 ![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
 ![serhanelmacioglu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhanelmacioglu&layout=compact&hide=html)
 
+<hr>
+<p align="center">
+  <img src="https://github.com/serhanelmacioglu/serhanelmacioglu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>

@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<samp>I am a mechanical engineer, I wouldn't say I'm capable of taking in all phases of the software development process even though I genuinely love working with: Python, C++, automation, machine learning and many more technologies. Nonetheless, I am willing to expend a lot of effort on this along the way. Besides, if you are looking for someone who is a sort of geeky tech-nerd, it's mine, I would love to collaborate with you whatever your level of programming experience.</samp>
+<samp>I am a mechanical engineer, I wouldn't say I'm capable of taking in all phases of the software development process even though I genuinely love working with: Python, C++, automation, machine learning and many more technologies. Besides, I am willing to expend a lot of effort on this along the way. By the way, if you are looking for someone who is a sort of geeky tech-nerd, it's mine, I would love to collaborate with you whatever your level of programming experience.</samp>
 
 - 📫 <samp>How to reach me ? You can always reach me on my [LinkedIn](https://www.linkedin.com/in/serhanbaranelmacioglu/).</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>

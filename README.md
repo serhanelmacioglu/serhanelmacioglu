@@ -1,8 +1,8 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 <samp>I’m currently working on Python for Everybody!</samp>
-- 🌱 <samp>I’m currently learning Machine Learning</samp>
-- 👯 <samp>I’m looking to collaborate with other geeky coder</samp>
+- 🌱 <samp>I’m currently learning Machine Learning.</samp>
+- 👯 <samp>I’m looking to collaborate with other geeky coder.</samp>
 - 🥅 <samp>My goals: Contribute more to Open Source projects.</samp>
 - ⚡ <samp>Fun fact: I love to visit museums and sample new dishes.</samp>
 - 📫 <samp>How to reach me ? You can always reach me on my [LinkedIn](https://www.linkedin.com/in/serhanbaranelmacioglu/).</samp>

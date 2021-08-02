@@ -5,7 +5,7 @@
 - 👯 <samp>I’m looking to collaborate with other geeky coders.</samp>
 - 🥅 <samp>My goals: Contribute more to Open Source projects.</samp>
 - ⚡ <samp>Fun fact: I love to visit museums and sample new dishes.</samp>
-- 📫 <samp>How do you reach me? You can always reach me on my [LinkedIn](https://www.linkedin.com/in/serhanbaranelmacioglu/).</samp>
+- 📫 <samp>How do you reach me? You can always reach me on my LinkedIn.</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>
     
 [![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/)

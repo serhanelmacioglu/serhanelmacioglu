@@ -2,8 +2,8 @@
 
 - 🔭 <samp>I’m currently working on Python for Everybody!</samp>
 - 🌱 <samp>I’m currently learning Machine Learning</samp>
-- 👯 <samp>I’m looking to collaborate with other content creators</samp>
-- 🥅 <samp>My goals: Contribute more to Open Source projects and Learn and write about new technologies.</samp>
+- 👯 <samp>I’m looking to collaborate with other geeky coder</samp>
+- 🥅 <samp>My goals: Contribute more to Open Source projects.</samp>
 - ⚡ <samp>Fun fact: I love to visit museums and sample new dishes.</samp>
 - 📫 <samp>How to reach me ? You can always reach me on my [LinkedIn](https://www.linkedin.com/in/serhanbaranelmacioglu/).</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>

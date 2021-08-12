@@ -4,8 +4,8 @@
 - 🌱 <samp>I’m currently learning Machine Learning.</samp>
 - 👯 <samp>I’m looking to collaborate with other geeky coders.</samp>
 - 🥅 <samp>My goals: Contribute more to open source projects and picking up new programming language.</samp>
-- ⚡ <samp>Fun facts: I love to explore new places and sample traditional dishes.</samp>
-- 📫 <samp>How do you reach me? You can always reach me on my LinkedIn.</samp>
+- ⚡ <samp>Fun facts: I love exploring new places and sampling traditional dishes.</samp>
+- 📫 <samp>How to reach me: You can always reach me on my LinkedIn.</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>
     
 [![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/)

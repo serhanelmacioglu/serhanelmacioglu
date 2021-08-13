@@ -7,8 +7,6 @@
 - ⚡ <samp>Fun facts: I love exploring new places and sampling traditional dishes.</samp>
 - 📫 <samp>How to reach me: You can always reach me on my LinkedIn.</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>
-
-<img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
     
 [![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/)
 ![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social)

@@ -8,9 +8,9 @@
 - 📫 <samp>How to reach me: You can always reach me on my LinkedIn.</samp>
 - 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>
     
-[![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/) &nbsp;
-![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social) &nbsp; 
-![serhanelmacioglu's GitHub followers](https://img.shields.io/github/followers/serhanelmacioglu?style=social) &nbsp;
+[![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/) &nbsp; &nbsp;
+![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social) &nbsp; &nbsp; 
+![serhanelmacioglu's GitHub followers](https://img.shields.io/github/followers/serhanelmacioglu?style=social) &nbsp; &nbsp;
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     <a href= "https://replit.com/@serhanelmacioglu"> <img src="/replit.png" width="120" height="20" > </a>

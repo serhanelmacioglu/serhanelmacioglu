@@ -15,10 +15,13 @@
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     
-
 ![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
 ![serhanelmacioglu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binnazcabuk&layout=compact&hide=html)<a>
-  
+    
+    
+<hr>
+<p align="center">
+  <img src="https://github.com/serhanelmacioglu/serhanelmacioglu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>  
   
   
   <!--

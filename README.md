@@ -16,19 +16,13 @@
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     
 
- <a href="">
     
-  <img height=205 align="left" src="https://github-readme-stats.vercel.app/api?username=serhanelmacioglu&show_icons=true" />
+![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
+  <a>
+   <img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
   </a>
-</p>    
-    
-<p align=right>
-  <a href="">
-    <img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
-  </a>    
-    
             
-
+<hr>
 <p align="center">
   <img src="https://github.com/serhanelmacioglu/serhanelmacioglu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   

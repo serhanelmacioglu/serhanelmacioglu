@@ -19,7 +19,7 @@
     
 ![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
   <a>
-   <img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
+   <img height=110 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
   </a>
             
 <hr>

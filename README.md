@@ -15,23 +15,20 @@
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     
-</div>
-<p align=center>
-  <a href="">
-    <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
-  </a>
-  <a href="">
-    
-  <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=serhanelmacioglu&show_icons=true" />
-  </a>
-</p>
-    
-<hr>    
 
-![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
-![serhanelmacioglu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhanelmacioglu&layout=compact&hide=html)<a> 
+ <a href="">
+    
+  <img height=205 align="left" src="https://github-readme-stats.vercel.app/api?username=serhanelmacioglu&show_icons=true" />
+  </a>
+</p>    
+    
+<p align=right>
+  <a href="">
+    <img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhanelmacioglu&layout=compact&hide=html%22%20alt=%22serhanelmacioglu" alt="serhanelmacioglu">
+  </a>    
+    
+            
 
-<hr>
 <p align="center">
   <img src="https://github.com/serhanelmacioglu/serhanelmacioglu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   

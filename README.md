@@ -1,12 +1,4 @@
-### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 <samp>I’m currently working on Python for Everybody!</samp>
-- 🌱 <samp>I’m currently learning Machine Learning.</samp>
-- 👯 <samp>I’m looking to collaborate with other geeky coders.</samp>
-- 🥅 <samp>My goals: Contribute more to open source projects and picking up new programming language.</samp>
-- ⚡ <samp>Fun facts: I love exploring new places and sampling traditional dishes.</samp>
-- 📫 <samp>How to reach me: You can always reach me on my LinkedIn.</samp>
-- 💬 <samp>Feel free to contact me for any technical consulting, event partnership or any other question.</samp>
     
 [![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/) &nbsp;
 ![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social) &nbsp; 

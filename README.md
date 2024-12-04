@@ -3,7 +3,7 @@
 [![Linkedin: Serhan Elmacioglu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhanbaranelmacioglu/)](https://www.linkedin.com/in/serhanbaranelmacioglu/) &nbsp;
 ![serhanelmacioglu's stars](https://img.shields.io/github/stars/serhanelmacioglu?style=social) &nbsp; 
 ![serhanelmacioglu's GitHub followers](https://img.shields.io/github/followers/serhanelmacioglu?style=social) &nbsp;
-<a href="https://replit.com/@serhanelmacioglu"> <img src="/replit.png" width="70" height="20" > </a>&nbsp;
+<a href="https://replit.com/@serhanelmacioglu"> <img src="/replit.png" width="70" height="20"> </a> &nbsp;
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     

@@ -7,8 +7,6 @@
 <a href="https://github.com/serhanelmacioglu/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=serhanelmacioglu">
     
-![serhanelmacioglu's github stats](https://github-readme-stats.vercel.app/api?username=serhanelmacioglu)
-![serhanelmacioglu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhanelmacioglu&layout=compact&hide=html)<a>
     
     
 <hr>
